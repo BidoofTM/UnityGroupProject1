@@ -1,0 +1,4 @@
+repository "VampSurvProject@BidoofTM@cloud"
+  path "/"
+    br "/main"
+    co "/main"
